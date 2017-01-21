@@ -1,0 +1,94 @@
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\Communicator.pdb
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\Communicator.Common.dll
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\MahApps.Metro.dll
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\Communicator.Common.pdb
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\MahApps.Metro.pdb
+C:\Users\adampawlak\Desktop\Communicator\Communicator\bin\Debug\MahApps.Metro.xml
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\ChatWindow.baml
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\MainWindow.baml
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\ChatWindow.g.cs
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\MainWindow.g.cs
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\App.g.cs
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.cache
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.lref
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\App.baml
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.g.resources
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.Properties.Resources.resources
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.csproj.GenerateResource.Cache
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\Communicator\Communicator\obj\Debug\Communicator.pdb
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\Communicator.exe.config
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\Communicator.exe
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\Communicator.pdb
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\Communicator.Common.dll
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\MahApps.Metro.dll
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\Communicator.Common.pdb
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\MahApps.Metro.pdb
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\bin\Debug\MahApps.Metro.xml
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\MainWindow.baml
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\ChatWindow.g.cs
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\MainWindow.g.cs
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\App.g.cs
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.cache
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.lref
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\App.baml
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\ChatWindow.baml
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.g.resources
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.Properties.Resources.resources
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.csproj.GenerateResource.Cache
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.exe
+C:\Users\agaladyk\Documents\Private Projects\Communicator\Communicator\obj\Debug\Communicator.pdb
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\Communicator.exe.config
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\Communicator.pdb
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\Communicator.Common.dll
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.dll
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\Communicator.Common.pdb
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.pdb
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.xml
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\MainWindow.baml
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\ChatWindow.g.cs
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\MainWindow.g.cs
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\App.g.cs
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.cache
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.lref
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\App.baml
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\ChatWindow.baml
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.g.resources
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.Properties.Resources.resources
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.csproj.GenerateResource.Cache
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\Adam\OD\Communicator\Communicator\obj\Debug\Communicator.pdb
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\Communicator.exe.config
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\Communicator.pdb
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\Communicator.Common.dll
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.dll
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\Communicator.Common.pdb
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.pdb
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\bin\Debug\MahApps.Metro.xml
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\MainWindow.baml
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\ChatWindow.g.cs
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\MainWindow.g.cs
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\App.g.cs
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.cache
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator_MarkupCompile.lref
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\App.baml
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\ChatWindow.baml
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.g.resources
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.Properties.Resources.resources
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.csproj.GenerateResource.Cache
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.exe
+C:\Users\adampawlak\Desktop\OD\Communicator\Communicator\obj\Debug\Communicator.pdb

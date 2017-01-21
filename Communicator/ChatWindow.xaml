@@ -1,0 +1,74 @@
+﻿<Controls:MetroWindow  x:Class="Communicator.ChatWindow"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:local="clr-namespace:Communicator"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      Title="Skype"
+                      Height="400"
+                      Icon="Communicator.ico"
+                      Width="600" ResizeMode="CanMinimize" ShowMaxRestoreButton="False">
+    <Window.Resources>
+        <local:XamlToTextBlockConverter x:Key="xamlConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Name="listOfMessagesLabel" Content="Wiadomości" HorizontalContentAlignment="Center" />
+        <ScrollViewer Grid.Row="0" Grid.Column="0" Margin="0 30 0 0" Name="messageScroll">
+            <ItemsControl Name="listOfMessages">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="2,5,0,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="3"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Column="0" Grid.Row="0">
+                                <TextBlock Text="{Binding UserName}" FontWeight="Bold" Foreground="{Binding Color}" TextWrapping="Wrap" />
+                            </TextBlock>
+                            <TextBlock Grid.Column="1" Grid.Row="0">
+                                <TextBlock Text="{Binding DateTime}" Foreground="Gray" FontSize="10px"></TextBlock>
+                                <LineBreak/>
+                                <ContentControl Content="{Binding Text, Converter={StaticResource xamlConverter}}"/>
+                            </TextBlock>
+                            <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
+                                <Separator />
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <!--<TextBlock Name="listOfMessages" Margin="5" TextWrapping="Wrap" />-->
+        </ScrollViewer>
+        <Label Grid.Row="0" Grid.Column="1" Name="listOfUsersLabel" Content="Lista użytkowników" HorizontalContentAlignment="Center" />
+        <ScrollViewer Grid.Row="0" Grid.Column="1" Margin="5 30 0 0">
+            <ItemsControl Name="listOfUsers">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="2,0,0,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Image Source="http://hmt.pl/skin/img/profil.png"></Image>
+                            <TextBlock Text="{Binding UserName}"  Foreground="{Binding Color}" TextWrapping="Wrap" Grid.Column="1" Margin="5 0 0 0" FontSize="10px" />
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+        <Button x:Name="send" Content="Wyślij" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="75" HorizontalContentAlignment="Center" Margin="35,25,0,0" Style="{StaticResource AccentedSquareButtonStyle}" Click="send_Click"/>
+        <TextBox Controls:TextBoxHelper.Watermark="Twoja wiadomość..." x:Name="message" HorizontalAlignment="Left" Height="60" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="470" KeyDown="OnKeyDownHandler"/>
+        <Line X1="0" Y1="25" X2="600" Y2="25" Stroke="Black" StrokeThickness="1" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" />
+    </Grid>
+</Controls:MetroWindow>
